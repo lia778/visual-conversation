@@ -1,31 +1,13 @@
 @font-face {
-    font-family: Ortica-Light;
-    src: url(/fonts/ortica/Ortica-Light.woff),
-         url(/fonts//ortica/Ortica-Light.woff2);
-}
-
-@font-face {
-    font-family: Ortica-Bold;
-    src: url(/fonts/ortica/Ortica-Bold.woff),
-         url(/fonts/ortica/Ortica-Bold.woff2);
-}
-
-@font-face {
     font-family: mazius-regular;
-    src: url(/fonts/mazius/MAZIUSREVIEW20.09-Regular.woff),
-         url(/fonts/mazius/MAZIUSREVIEW20.09-Regular.woff2);
+    src: url(../visual-conversation/fonts/mazius/MAZIUSREVIEW20.09-Regular.woff),
+         url(../visual-conversation/fonts/mazius/MAZIUSREVIEW20.09-Regular.woff2);
 }
 
 @font-face {
     font-family: mazius-italic;
-    src: url(/fonts/mazius/MAZIUSREVIEW20.09-Italic.woff),
-         url(/fonts/mazius/MAZIUSREVIEW20.09-Italic.woff2);
-}
-
-@font-face {
-    font-family: mazius-extraitalic;
-    src: url(/fonts/mazius/MAZIUSREVIEW20.09-Extraitalic.woff),
-         url(/fonts/mazius/MAZIUSREVIEW20.09-Extraitalic.woff2);
+    src: url(../visual-conversation/fonts/mazius/MAZIUSREVIEW20.09-Italic.woff),
+         url(../visual-conversation/fonts/mazius/MAZIUSREVIEW20.09-Italic.woff2);
 }
 
 body {
