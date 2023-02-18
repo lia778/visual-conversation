@@ -1,0 +1,223 @@
+@font-face {
+    font-family: Ortica-Light;
+    src: url(/fonts/ortica/Ortica-Light.woff),
+         url(/fonts//ortica/Ortica-Light.woff2);
+}
+
+@font-face {
+    font-family: Ortica-Bold;
+    src: url(/fonts/ortica/Ortica-Bold.woff),
+         url(/fonts/ortica/Ortica-Bold.woff2);
+}
+
+@font-face {
+    font-family: mazius-regular;
+    src: url(/fonts/mazius/MAZIUSREVIEW20.09-Regular.woff),
+         url(/fonts/mazius/MAZIUSREVIEW20.09-Regular.woff2);
+}
+
+@font-face {
+    font-family: mazius-italic;
+    src: url(/fonts/mazius/MAZIUSREVIEW20.09-Italic.woff),
+         url(/fonts/mazius/MAZIUSREVIEW20.09-Italic.woff2);
+}
+
+@font-face {
+    font-family: mazius-extraitalic;
+    src: url(/fonts/mazius/MAZIUSREVIEW20.09-Extraitalic.woff),
+         url(/fonts/mazius/MAZIUSREVIEW20.09-Extraitalic.woff2);
+}
+
+body {
+    font-family: mazius-regular;
+    font-size: 32px;
+    background: rgb(205,247,255);
+    background: linear-gradient(0deg, rgba(205,247,255,1) 0%, rgb(22, 22, 22) 64%);
+}
+
+.container {
+    margin: 5rem;
+}
+
+.text1 {
+    font-family: mazius-italic;
+    font-size: 65px;
+    font-weight: 600;
+    color: #ffffff;
+    text-align: center;
+    margin: 8rem;
+}
+
+.text2 {
+    font-size: 32px;
+    color: #ffffff;
+    margin-bottom: 5rem;
+    line-height: 5rem;
+}
+
+.text3 {
+    color: #ffffff;
+    margin-left: 10rem;
+    margin-bottom: 15rem;
+}
+
+.text4 {
+    color: #ffffff;
+    margin-left: 18rem;
+    margin-bottom: 15rem;
+}
+
+.text5 {
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.text6 {
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 15rem;
+}
+
+.text7 {
+    color: #ffffff;
+    font-size: 32px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 10rem;
+    -webkit-box-reflect: below 10px linear-gradient(transparent, rgba(0,0,0,0.5));
+}
+
+.text8 {
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 40rem;
+}
+
+.text8 span {
+    display: inline-block;
+}
+
+.text8  span:nth-child(1) {
+    font-size: 70px;
+    transform: translateX(100px);
+}
+
+.text8  span:nth-child(2) {
+    font-size: 67px;
+    transform: translate(125px,25px);
+}
+
+.text8  span:nth-child(3) {
+    font-size: 64px;
+    transform: translate(150px,50px);
+}
+
+.text8  span:nth-child(4) {
+    font-size: 61px;
+    transform: translate(175px,75px);
+}
+
+.text8  span:nth-child(5) {
+    font-size: 58px;
+    transform: translate(200px,100px);
+}
+
+.text8  span:nth-child(6) {
+    font-size: 55px;
+    transform: translate(225px,125px);
+}
+
+.text8  span:nth-child(7) {
+    font-size: 52px;
+    transform: translate(250px,150px);
+}
+
+.text8  span:nth-child(8) {
+    font-size: 49px;
+    transform: translate(275px,175px);
+}
+
+.text8  span:nth-child(9) {
+    font-size: 46px;
+    transform: translate(300px,200px);
+}
+
+.text8  span:nth-child(10) {
+    font-size: 43px;
+    transform: translate(325px,225px);
+}
+
+.text8  span:nth-child(11) {
+    font-size: 40px;
+    transform: translate(350px,250px);
+}
+
+.text8  span:nth-child(12) {
+    font-size: 37px;
+    transform: translate(375px,300px);
+}
+
+.text8  span:nth-child(13) {
+    font-size: 34px;
+    transform: translate(200px,325px);
+}
+
+.text8  span:nth-child(14) {
+    font-size: 31px;
+    transform: translate(-25px,350px);
+}
+
+.text8  span:nth-child(15) {
+    font-size: 28px;
+    transform: translate(-250px,375px);
+}
+
+.text8  span:nth-child(16) {
+    font-size: 26px;
+    transform: translate(-475px,400px);
+}
+
+.text8  span:nth-child(17) {
+    font-size: 25px;
+    transform: translate(-700px,425px);
+}
+
+.text8  span:nth-child(18) {
+    font-size: 24px;
+    transform: translate(-925px,450px);
+}
+
+.text8  span:nth-child(19) {
+    font-size: 23px;
+    transform: translate(-72rem,475px);
+}
+
+.text8  span:nth-child(20) {
+    font-size: 22px;
+    transform: translate(-1375px,500px);
+}
+
+.text9 {
+    color: #ffffff;
+    margin-bottom: 10rem;
+}
+
+.text10 {
+    color: #ffffff;
+    margin-bottom: 10rem;
+    text-align: right;
+}
+
+.text11 {
+    color: #ffffff;
+    margin-bottom: 80rem;
+}
+
+.text12 {
+    font-size: 72px;
+    font-weight: 600;
+    color: rgb(43, 43, 43);
+    margin-bottom: 10rem;
+    text-align: right;
+}
